@@ -1,0 +1,18 @@
+{
+  "name": "cypress_act",
+   "version": "1.0.0",
+  "private": true,
+  "description": "Projeto de automação Cypress com 3 cenários E2E e 3 cenários de API para ServeRest",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run",
+    "test:api": "cypress run --spec 'cypress/e2e/api/**/*.cy.js'",
+    "test:e2e": "cypress run --spec 'cypress/e2e/frontend/**/*.cy.js'",
+    "test:chrome": "cypress run --browser chrome",
+    "format": "npx prettier --write ."
+  },
+  "devDependencies": {
+    "cypress": "^14.5.4",
+    "prettier": "^3.3.3"
+  }
+}
