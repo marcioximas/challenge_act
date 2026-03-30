@@ -1,4 +1,22 @@
 # challenge_act
+Utilizando o framework Cypress e a linguagem JavaScript, desenvolva 3 cenários de testes
+E2E automatizados para o frontend e 3 cenários de testes automatizados para a API da
+aplicação indicada abaixo.
+
+• Frontend: https://front.serverest.dev/
+• Swagger API: https://serverest.dev/
+
+Requisitos:
+• Utilize o GitHub para hospedar o código (Deixar o acesso público).
+• Ao finalizar, compartilhe o repositório.
+
+Critérios de Avaliação:
+• Adoção de boas práticas de desenvolvimento.
+• Qualidade na construção do código.
+• Aplicação de padrões de projeto.
+• Adequação e clareza das assertivas nos testes.
+• Escrita e organização dos cenários de teste.
+• Qualidade e clareza nos commits.
 
 ## Guideline de Fixtures e Nomenclatura
 
