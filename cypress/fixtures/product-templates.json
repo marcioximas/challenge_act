@@ -1,0 +1,20 @@
+{
+  "api": {
+    "namePrefix": "Produto API",
+    "preco": 100,
+    "descricao": "Produto criado via teste automatizado",
+    "quantidade": 10
+  },
+  "cart": {
+    "namePrefix": "Produto Carrinho",
+    "preco": 80,
+    "descricao": "Produto para validar o carrinho",
+    "quantidade": 3
+  },
+  "adminUi": {
+    "namePrefix": "Produto UI",
+    "preco": "150",
+    "descricao": "Produto criado pelo fluxo E2E",
+    "quantidade": "5"
+  }
+}
